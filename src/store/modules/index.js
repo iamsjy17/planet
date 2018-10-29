@@ -1,3 +1,2 @@
-export { default as header } from './header';
-export { default as section } from './section';
+export { default as base } from './base';
 export { default as editor } from './editor';

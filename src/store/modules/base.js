@@ -2,7 +2,7 @@ import { createAction, handleActions } from 'redux-actions';
 import { Map } from 'immutable';
 
 // action types
-const DOMMY = 'header/DOMMY';
+const DOMMY = 'base/DOMMY';
 
 // action creators
 export const dommy = createAction(DOMMY);
