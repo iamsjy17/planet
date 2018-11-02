@@ -1,13 +1,13 @@
 {
-  "main.css": "/planet.git/static/css/main.b248cc13.chunk.css",
-  "main.js": "/planet.git/static/js/main.9239ccf9.chunk.js",
-  "main.js.map": "/planet.git/static/js/main.9239ccf9.chunk.js.map",
-  "static/js/1.7ef34a6b.chunk.js": "/planet.git/static/js/1.7ef34a6b.chunk.js",
-  "static/js/1.7ef34a6b.chunk.js.map": "/planet.git/static/js/1.7ef34a6b.chunk.js.map",
-  "runtime~main.js": "/planet.git/static/js/runtime~main.da4cc84e.js",
-  "runtime~main.js.map": "/planet.git/static/js/runtime~main.da4cc84e.js.map",
-  "static/css/main.b248cc13.chunk.css.map": "/planet.git/static/css/main.b248cc13.chunk.css.map",
-  "index.html": "/planet.git/index.html",
-  "precache-manifest.bfad275f5fd8c693d01d025a25d9c6ac.js": "/planet.git/precache-manifest.bfad275f5fd8c693d01d025a25d9c6ac.js",
-  "service-worker.js": "/planet.git/service-worker.js"
+  "main.css": "/planet/static/css/main.b248cc13.chunk.css",
+  "main.js": "/planet/static/js/main.a005596b.chunk.js",
+  "main.js.map": "/planet/static/js/main.a005596b.chunk.js.map",
+  "static/js/1.7ef34a6b.chunk.js": "/planet/static/js/1.7ef34a6b.chunk.js",
+  "static/js/1.7ef34a6b.chunk.js.map": "/planet/static/js/1.7ef34a6b.chunk.js.map",
+  "runtime~main.js": "/planet/static/js/runtime~main.10fe8d37.js",
+  "runtime~main.js.map": "/planet/static/js/runtime~main.10fe8d37.js.map",
+  "static/css/main.b248cc13.chunk.css.map": "/planet/static/css/main.b248cc13.chunk.css.map",
+  "index.html": "/planet/index.html",
+  "precache-manifest.c05fbdfa290be434b9bcf258b993897a.js": "/planet/precache-manifest.c05fbdfa290be434b9bcf258b993897a.js",
+  "service-worker.js": "/planet/service-worker.js"
 }
