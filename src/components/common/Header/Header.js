@@ -14,7 +14,7 @@ const Header = () => (
       </div>
       <div className={cx('menu')}>
         <Button theme="default">about</Button>
-        <Button theme="default" to="/editor">
+        <Button theme="default" to="/Demo">
           Demo
         </Button>
         <Button theme="default">Download</Button>
